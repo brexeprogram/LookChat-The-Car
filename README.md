@@ -6,6 +6,8 @@ mean almost daily update. Might consider adding somemore features into it, here'
 **Modify**
 ______________
 There's just couple of thing you have to change, change the theme that you want in lang/en-us/style.css
+Reminder* remember to create a file named (lang) put en-us into it in order the website work correctly
+______________
 ![Home Page](1.png)
 ![Update Page](4.png)
 ![Member Page](2.png)
